@@ -34,7 +34,7 @@ The **Simon Game** is a memory game where the player has to repeat a sequence of
 
 ## 📸 Screenshot
 
-Add a screenshot of your Simon Game here. You can upload an image (e.g., `screenshot.png`) and reference it in the README.
+![Simon Game Screenshot](Screenshot.png)
 
 ---
 
